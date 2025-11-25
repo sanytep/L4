@@ -1,0 +1,172 @@
+=== Book1 Unique Words ===
+kelionė
+prasidėjo
+anksti
+ryte
+kai
+saulė
+dar
+tik
+kilo
+vėjai
+pūtė
+smarkiai
+tačiau
+nuotaika
+buvo
+puiki
+keliautojai
+žygiavo
+kartu
+ir
+dalijosi
+mintimis
+kiekvienas
+žodis
+ištartas
+kelyje
+skambėjo
+nuoširdžiai
+vakare
+jie
+pasiekė
+slėnį
+surado
+poilsio
+vietą
+vakaras
+rytas-
+diena
+naktis
+labas
+ate
+iki
+viso
+gero
+Total: 44
+
+=== Book2 Unique Words ===
+ryte
+keliautojai
+pradėjo
+kelionę
+nuotaika
+buvo
+puiki
+slėnyje
+tapo
+kurį
+jie
+pasiekė
+vakare
+ramybė
+tvyrojo
+vėjai
+pūtė
+smarkiai
+žodžiai
+sunkiau
+girdimi
+kiekviena
+mintis
+ištarta
+kelyje
+nuoširdi
+poilsio
+vieta
+laukė
+jų
+kai
+saulė
+jau
+leidosi
+Total: 34
+
+=== Starting Merge ===
+Book1 - Word: 'Kelionė' (clean: 'kelionė'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'prasidėjo' (clean: 'prasidėjo'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'anksti' (clean: 'anksti'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'ryte' (clean: 'ryte'), ExistsInBook2: True, NotYetWritten: True, Switching: True
+Book2 - Word: 'Ryte' (clean: 'ryte'), ExistsInBook1: True, NotYetWritten: False, Switching: False
+Book2 - Word: 'keliautojai' (clean: 'keliautojai'), ExistsInBook1: True, NotYetWritten: True, Switching: True
+Book1 - Word: 'kai' (clean: 'kai'), ExistsInBook2: True, NotYetWritten: True, Switching: True
+Book2 - Word: 'pradėjo' (clean: 'pradėjo'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'kelionę' (clean: 'kelionę'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'nuotaika' (clean: 'nuotaika'), ExistsInBook1: True, NotYetWritten: True, Switching: True
+Book1 - Word: 'saulė' (clean: 'saulė'), ExistsInBook2: True, NotYetWritten: True, Switching: True
+Book2 - Word: 'buvo' (clean: 'buvo'), ExistsInBook1: True, NotYetWritten: True, Switching: True
+Book1 - Word: 'dar' (clean: 'dar'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'tik' (clean: 'tik'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'kilo' (clean: 'kilo'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'Vėjai' (clean: 'vėjai'), ExistsInBook2: True, NotYetWritten: True, Switching: True
+Book2 - Word: 'puiki' (clean: 'puiki'), ExistsInBook1: True, NotYetWritten: True, Switching: True
+Book1 - Word: 'pūtė' (clean: 'pūtė'), ExistsInBook2: True, NotYetWritten: True, Switching: True
+Book2 - Word: 'Slėnyje' (clean: 'slėnyje'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'tapo' (clean: 'tapo'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'kurį' (clean: 'kurį'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'jie' (clean: 'jie'), ExistsInBook1: True, NotYetWritten: True, Switching: True
+Book1 - Word: 'smarkiai' (clean: 'smarkiai'), ExistsInBook2: True, NotYetWritten: True, Switching: True
+Book2 - Word: 'pasiekė' (clean: 'pasiekė'), ExistsInBook1: True, NotYetWritten: True, Switching: True
+Book1 - Word: 'tačiau' (clean: 'tačiau'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'nuotaika' (clean: 'nuotaika'), ExistsInBook2: True, NotYetWritten: False, Switching: False
+Book1 - Word: 'buvo' (clean: 'buvo'), ExistsInBook2: True, NotYetWritten: False, Switching: False
+Book1 - Word: 'puiki' (clean: 'puiki'), ExistsInBook2: True, NotYetWritten: False, Switching: False
+Book1 - Word: 'Keliautojai' (clean: 'keliautojai'), ExistsInBook2: True, NotYetWritten: False, Switching: False
+Book1 - Word: 'žygiavo' (clean: 'žygiavo'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'kartu' (clean: 'kartu'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'ir' (clean: 'ir'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'dalijosi' (clean: 'dalijosi'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'mintimis' (clean: 'mintimis'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'Kiekvienas' (clean: 'kiekvienas'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'žodis' (clean: 'žodis'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'ištartas' (clean: 'ištartas'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'kelyje' (clean: 'kelyje'), ExistsInBook2: True, NotYetWritten: True, Switching: True
+Book2 - Word: 'vakare' (clean: 'vakare'), ExistsInBook1: True, NotYetWritten: True, Switching: True
+Book1 - Word: 'skambėjo' (clean: 'skambėjo'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'nuoširdžiai' (clean: 'nuoširdžiai'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'Vakare' (clean: 'vakare'), ExistsInBook2: True, NotYetWritten: False, Switching: False
+Book1 - Word: 'jie' (clean: 'jie'), ExistsInBook2: True, NotYetWritten: False, Switching: False
+Book1 - Word: 'pasiekė' (clean: 'pasiekė'), ExistsInBook2: True, NotYetWritten: False, Switching: False
+Book1 - Word: 'slėnį' (clean: 'slėnį'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'ir' (clean: 'ir'), ExistsInBook2: False, NotYetWritten: False, Switching: False
+Book1 - Word: 'surado' (clean: 'surado'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'poilsio' (clean: 'poilsio'), ExistsInBook2: True, NotYetWritten: True, Switching: True
+Book2 - Word: 'ramybė' (clean: 'ramybė'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'tvyrojo' (clean: 'tvyrojo'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'ramybė' (clean: 'ramybė'), ExistsInBook1: False, NotYetWritten: False, Switching: False
+Book2 - Word: 'Vėjai' (clean: 'vėjai'), ExistsInBook1: True, NotYetWritten: False, Switching: False
+Book2 - Word: 'pūtė' (clean: 'pūtė'), ExistsInBook1: True, NotYetWritten: False, Switching: False
+Book2 - Word: 'smarkiai' (clean: 'smarkiai'), ExistsInBook1: True, NotYetWritten: False, Switching: False
+Book2 - Word: 'žodžiai' (clean: 'žodžiai'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'tapo' (clean: 'tapo'), ExistsInBook1: False, NotYetWritten: False, Switching: False
+Book2 - Word: 'sunkiau' (clean: 'sunkiau'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'girdimi' (clean: 'girdimi'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'Kiekviena' (clean: 'kiekviena'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'mintis' (clean: 'mintis'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'ramybė' (clean: 'ramybė'), ExistsInBook1: False, NotYetWritten: False, Switching: False
+Book2 - Word: 'ištarta' (clean: 'ištarta'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'kelyje' (clean: 'kelyje'), ExistsInBook1: True, NotYetWritten: False, Switching: False
+Book2 - Word: 'buvo' (clean: 'buvo'), ExistsInBook1: True, NotYetWritten: False, Switching: False
+Book2 - Word: 'tapo' (clean: 'tapo'), ExistsInBook1: False, NotYetWritten: False, Switching: False
+Book2 - Word: 'nuoširdi' (clean: 'nuoširdi'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'Poilsio' (clean: 'poilsio'), ExistsInBook1: True, NotYetWritten: False, Switching: False
+Book2 - Word: 'vieta' (clean: 'vieta'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'laukė' (clean: 'laukė'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'jų' (clean: 'jų'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'kai' (clean: 'kai'), ExistsInBook1: True, NotYetWritten: False, Switching: False
+Book2 - Word: 'saulė' (clean: 'saulė'), ExistsInBook1: True, NotYetWritten: False, Switching: False
+Book2 - Word: 'jau' (clean: 'jau'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book2 - Word: 'leidosi' (clean: 'leidosi'), ExistsInBook1: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'vietą' (clean: 'vietą'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'vakaras' (clean: 'vakaras'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'rytas-' (clean: 'rytas-'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'diena' (clean: 'diena'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'naktis' (clean: 'naktis'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'labas' (clean: 'labas'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'ate' (clean: 'ate'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'iki' (clean: 'iki'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'viso' (clean: 'viso'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+Book1 - Word: 'gero' (clean: 'gero'), ExistsInBook2: False, NotYetWritten: True, Switching: False
+
+C:\Users\sanij\OneDrive - Kaunas University of Technology\Studijos\Objektinis programavimas 1\Lab4.Exercises\U4H-17\bin\Debug\U4H-17.exe (process 28936) exited with code 0 (0x0).
+Press any key to close this window . . .

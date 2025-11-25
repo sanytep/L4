@@ -1,0 +1,22 @@
+﻿Unikalių žodžių skaičius: 1
+TOP 10 daugiausiai pasikartojančių, unikalių žodžių sąrašas:
+-------------------------------------
+| Žodis           |  Pasikartojimas |
+-------------------------------------
+| šiandien        |               1 |
+-------------------------------------
+
+Ilgiausias sakinys pirmoje knygoje: PIRMAS.
+---------------------------------------------
+| Ilgis žodžiais | Ilgis simboliais | Vieta |
+---------------------------------------------
+|              1 |                7 |     1 |
+---------------------------------------------
+
+Ilgiausias sakinys antroje knygoje: šiandien,
+---------------------------------------------
+| Ilgis žodžiais | Ilgis simboliais | Vieta |
+---------------------------------------------
+|              1 |                9 |     2 |
+---------------------------------------------
+

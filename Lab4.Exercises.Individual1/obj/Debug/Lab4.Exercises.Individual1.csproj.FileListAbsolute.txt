@@ -1,0 +1,9 @@
+C:\Users\sanij\OneDrive - Kaunas University of Technology\Studijos\Objektinis programavimas 1\Lab4.Exercises\Lab4.Exercises.Individual1\bin\Debug\Duomenys.txt
+C:\Users\sanij\OneDrive - Kaunas University of Technology\Studijos\Objektinis programavimas 1\Lab4.Exercises\Lab4.Exercises.Individual1\bin\Debug\Lab4.Exercises.Individual1.exe.config
+C:\Users\sanij\OneDrive - Kaunas University of Technology\Studijos\Objektinis programavimas 1\Lab4.Exercises\Lab4.Exercises.Individual1\bin\Debug\Lab4.Exercises.Individual1.exe
+C:\Users\sanij\OneDrive - Kaunas University of Technology\Studijos\Objektinis programavimas 1\Lab4.Exercises\Lab4.Exercises.Individual1\bin\Debug\Lab4.Exercises.Individual1.pdb
+C:\Users\sanij\OneDrive - Kaunas University of Technology\Studijos\Objektinis programavimas 1\Lab4.Exercises\Lab4.Exercises.Individual1\obj\Debug\Lab4.Exercises.Individual1.csproj.AssemblyReference.cache
+C:\Users\sanij\OneDrive - Kaunas University of Technology\Studijos\Objektinis programavimas 1\Lab4.Exercises\Lab4.Exercises.Individual1\obj\Debug\Lab4.Exercises.Individual1.csproj.CoreCompileInputs.cache
+C:\Users\sanij\OneDrive - Kaunas University of Technology\Studijos\Objektinis programavimas 1\Lab4.Exercises\Lab4.Exercises.Individual1\obj\Debug\Lab4.Exercises.Individual1.exe
+C:\Users\sanij\OneDrive - Kaunas University of Technology\Studijos\Objektinis programavimas 1\Lab4.Exercises\Lab4.Exercises.Individual1\obj\Debug\Lab4.Exercises.Individual1.pdb
+C:\Users\sanij\OneDrive - Kaunas University of Technology\Studijos\Objektinis programavimas 1\Lab4.Exercises\Lab4.Exercises.Individual1\obj\Debug\Lab4.Exercises.Individual1.exe.config

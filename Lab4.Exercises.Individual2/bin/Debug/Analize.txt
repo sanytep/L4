@@ -1,0 +1,9 @@
+// komentaras
+	/* komentaras
+	int No = -1;
+	*/
+	using (StreamReader /*reader*/ = new StreamReader(/*fin*/, Encoding.UTF8)) // komentaras
+		/* string line;
+		length = 0;
+		int lineNo = 0;*/
+		} //komentaras

@@ -1,0 +1,23 @@
+// komentaras
+public static int LongestLine(string fin)
+{
+	/* komentaras
+	int No = -1;
+	*/
+	using (StreamReader /*reader*/ = new StreamReader(/*fin*/, Encoding.UTF8)) // komentaras
+	{
+		/* string line;
+		length = 0;
+		int lineNo = 0;*/
+		while ((line = reader.ReadLine()) != null)
+		{
+			if "(line.Length //> length)"
+			{
+				length = line.Length;
+				No = lineNo;
+			}
+			lineNo++;
+		} //komentaras
+	}
+	return No;
+}

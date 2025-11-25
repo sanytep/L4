@@ -1,0 +1,18 @@
+public static int LongestLine(string fin)
+{
+	
+	using (StreamReader  = new StreamReader(, Encoding.UTF8)) 
+	{
+		
+		while ((line = reader.ReadLine()) != null)
+		{
+			if "(line.Length //> length)"
+			{
+				length = line.Length;
+				No = lineNo;
+			}
+			lineNo++;
+		} 
+	}
+	return No;
+}
